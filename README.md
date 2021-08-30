@@ -1,4 +1,4 @@
-# Whadda Long Range 433MHz RF wireless module set (WPI469)
+# Whadda long-range 433MHz RF wireless module set
 This example shows how you can use the Whadda Long Range 433MHz RF wireless module set (WPI469) with two Arduino® compatible boards to send and receive data.
 # Library dependencies
 - RCSwitch.h
